@@ -38,7 +38,7 @@ img{
 }
 
 #stage{
-	background: url("images/stage.jpg") center center no-repeat;
+	background: url("../images/stage.jpg") center center no-repeat;
 	background-size: cover;
 	color: white;
 	height: 100%;
@@ -83,9 +83,17 @@ img{
 	background: #f0f0f0;
 }
 
+#feature-four{
+	background: #262F36;
+}
+
 #feature-four .feature-content{
 	padding: 0;
 
+}
+
+#feature-four .blockquote{
+	color: white;
 }
 
 #feature-five img{
